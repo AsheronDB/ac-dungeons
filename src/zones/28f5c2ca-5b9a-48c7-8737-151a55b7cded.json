@@ -1,6 +1,7 @@
 {
   "id": "28f5c2ca-5b9a-48c7-8737-151a55b7cded",
-  "name": "Society Infiltration Dungeon (Celestial Hand) / Society Infiltration Dungeon (Eldrytch Web) / Society Infiltration Dungeon (Radiant Blood)",
+  "name": "Society Infiltration Dungeons",
+  "subzones": "Society Infiltration Dungeon (Celestial Hand), Society Infiltration Dungeon (Eldrytch Web), Society Infiltration Dungeon (Radiant Blood)",
   "landblock": "8A03",
   "landblockDec": "2315452416",
   "cells": [
