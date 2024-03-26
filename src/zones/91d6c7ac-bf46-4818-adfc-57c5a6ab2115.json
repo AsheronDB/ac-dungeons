@@ -1,0 +1,14 @@
+{
+  "id": "91d6c7ac-bf46-4818-adfc-57c5a6ab2115",
+  "name": "Time Out Room 1",
+  "landblock": "010D",
+  "landblockDec": "17629184",
+  "cells": [
+    "0x010D0100",
+    "0x010D0101",
+    "0x010D0102",
+    "0x010D0103",
+    "0x010D0104",
+    "0x010D0105"
+  ]
+}
