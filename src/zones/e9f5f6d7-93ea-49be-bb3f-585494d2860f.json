@@ -1,6 +1,7 @@
 {
   "id": "e9f5f6d7-93ea-49be-bb3f-585494d2860f",
-  "name": "Realaidain Vaults (North; East; West)",
+  "name": "Realaidain Vaults",
+  "subzones": "North, East, West",
   "landblock": "0050",
   "landblockDec": "5242880",
   "cells": [

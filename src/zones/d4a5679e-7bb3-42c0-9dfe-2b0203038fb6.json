@@ -1,6 +1,7 @@
 {
   "id": "d4a5679e-7bb3-42c0-9dfe-2b0203038fb6",
-  "name": "Shade Stronghold; Upper Shade Stronghold",
+  "name": "Shade Stronghold",
+  "subzones": "Lower Shade Stronghold, Upper Shade Stronghold",
   "landblock": "02B1",
   "landblockDec": "45154304",
   "cells": [

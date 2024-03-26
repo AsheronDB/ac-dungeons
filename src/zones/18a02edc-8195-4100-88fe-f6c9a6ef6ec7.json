@@ -1,6 +1,7 @@
 {
   "id": "18a02edc-8195-4100-88fe-f6c9a6ef6ec7",
-  "name": "Delving into Claude's Mind MIRROR (Exploring the Past; Witnessing History; The Path to More Recent Times; Crossing the Threshold of Darkness)",
+  "name": "Delving into Claude's Mind MIRROR",
+  "subzones": "Exploring the Past; Witnessing History; The Path to More Recent Times; Crossing the Threshold of Darkness",
   "landblock": "00DB",
   "landblockDec": "14352384",
   "cells": [
