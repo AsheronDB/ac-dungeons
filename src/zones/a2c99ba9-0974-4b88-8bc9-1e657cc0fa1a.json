@@ -1,8 +1,9 @@
 {
   "id": "a2c99ba9-0974-4b88-8bc9-1e657cc0fa1a",
-  "name": "Hall of the Temple Guardians (Ixir Zi Temple)",
-  "landblock": "6547",
-  "landblockDec": "1699151872",
+  "name": "Hall of the Temple Guardians",
+  "notes": "Single LB includes all 3 level versions in single chunk",
+  "type": "subzone",
+  "landblock": "0x6547",
   "cells": [
     "0x65470100",
     "0x65470101",
