@@ -1,6 +1,7 @@
 {
   "id": "ae2fae49-5b43-4b86-89d2-8794a4ed3f15",
-  "name": "Xi Ru's Crypt",
+  "name": "Xi Ru's Library",
+  "label": "Library",
   "notes": "Exterior cathedral building is also part of the Chapel",
   "type": "dungeon",
   "cells": [
