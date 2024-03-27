@@ -1,8 +1,10 @@
 {
   "id": "b8e0fddb-ad46-4b3a-b019-6873c8b02083",
-  "name": "Delving into Claude's Mind (Exploring the Past; Witnessing History; The Path to More Recent Times; Crossing the Threshold of Darkness)",
+  "name": "Delving into Claude's Mind",
+  "notes": "Subzones: Exploring the Past; Witnessing History; The Path to More Recent Times; Crossing the Threshold of Darkness",
   "landblock": "00A3",
   "landblockDec": "10682368",
+  "duplicate_id": "1",
   "cells": [
     "0x00A30100",
     "0x00A30101",
