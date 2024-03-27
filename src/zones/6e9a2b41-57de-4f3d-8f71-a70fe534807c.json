@@ -1,6 +1,7 @@
 {
   "id": "6e9a2b41-57de-4f3d-8f71-a70fe534807c",
   "name": "Lyceum Training Grounds",
+  "duplicate_id": "2",
   "landblock": "01F4",
   "landblockDec": "32768000",
   "cells": [

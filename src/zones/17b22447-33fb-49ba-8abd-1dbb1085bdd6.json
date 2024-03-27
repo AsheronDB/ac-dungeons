@@ -1,8 +1,9 @@
 {
   "id": "17b22447-33fb-49ba-8abd-1dbb1085bdd6",
-  "name": "Lyceum Training Grounds MIRROR",
+  "name": "Lyceum Training Grounds",
   "landblock": "02A7",
   "landblockDec": "44498944",
+  "duplicate_id": "5",
   "cells": [
     "0x02A70100",
     "0x02A70101",
