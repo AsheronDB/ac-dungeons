@@ -1,8 +1,7 @@
 {
   "id": "db83a64a-9104-48e1-a54c-e5388864a811",
-  "name": "Temple of the Three; Ritual Chambers",
+  "name": "Ritual Chambers",
   "landblock": "00E4",
-  "landblockDec": "14942208",
   "cells": [
     "0x00E40100",
     "0x00E40101",

@@ -1,8 +1,9 @@
 {
   "id": "f9cb5c98-3b5e-4f62-875c-c12a99647844",
-  "name": "Laboratory (Frozen Fortress); Testing Grounds; Frozen Fortress",
+  "name": "Frozen Fortress",
   "landblock": "594F",
   "landblockDec": "1498349568",
+  "duplicate_id": "1",
   "cells": [
     "0x594F0100",
     "0x594F0101",

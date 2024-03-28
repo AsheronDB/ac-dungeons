@@ -1,6 +1,7 @@
 {
   "id": "fd7b50cf-25aa-4698-bbe0-ef7e5067dbd3",
   "name": "Small Mnemosyne Collection Site",
+  "type": "dungeon",
   "landblock": "029D",
   "cells": [
     "0x029D0106",

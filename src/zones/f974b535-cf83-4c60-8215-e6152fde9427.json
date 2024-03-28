@@ -3,6 +3,7 @@
   "name": "Temple of the Three",
   "landblock": "00E5",
   "landblockDec": "15007744",
+  "children": ["db83a64a-9104-48e1-a54c-e5388864a811"],
   "cells": [
     "0x00E50100",
     "0x00E50101",
