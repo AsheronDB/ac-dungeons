@@ -3,6 +3,11 @@
   "name": "Western Royal Hive",
   "landblock": "586A",
   "landblockDec": "1483341824",
+  "children": [
+    "af531866-89ad-4de2-b215-ad24fe1bdac6",
+    "a4c0040f-638a-4ec3-8cb6-ba014438e9e2",
+    "c0ee3dc1-a87a-45f8-963a-ae8de2b050a3"
+  ],
   "cells": [
     "0x586A0100",
     "0x586A0101",
