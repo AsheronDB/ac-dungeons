@@ -1,8 +1,7 @@
 {
   "id": "684f50af-9c67-42db-a5a6-3671e925cf90",
-  "name": "Upper Heart of Darkness; Lower Heart of Darkness",
+  "name": "Heart of Darkness",
   "landblock": "02B2",
-  "landblockDec": "45219840",
   "cells": [
     "0x02B20100",
     "0x02B20101",
