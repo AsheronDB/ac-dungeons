@@ -20,42 +20,37 @@ zoneFiles.forEach((file) => {
 
 const landblocks = {};
 
-function buildTreeFromArray(flatArray) {
-  const idToNodeMap = {};
+function buildTree(nodes) {
+  const treeArray = [];
+  const idMap = nodes.reduce(
+    (obj, item) =>
+      Object.assign(obj, {
+        [item.id]: item,
+      }),
+    {}
+  );
 
-  // Step 1: Create a mapping of node IDs to node objects
-  flatArray.forEach((node) => {
-    idToNodeMap[node.id] = { ...node, children: [] }; // Copy node object and initialize children array
-  });
+  const recurseChildren = (node) => {
+    const childNodes = [];
+    node.children.forEach((childId) => {
+      const childNode = idMap[childId];
+      childNodes.push(childNode);
+      delete idMap[childId];
+      if (childNode.children && childNode.children.length) {
+        childNode.children = recurseChildren(childNode);
+      }
+    });
+    return childNodes;
+  };
 
-  // Step 2: Build the tree structure using the "children" property
-  const roots = [];
-  flatArray.forEach((node) => {
-    if (node.children && node.children.length > 0) {
-      node.children.forEach((childId) => {
-        const childNode = idToNodeMap[childId];
-        if (childNode) {
-          // Assign child node to its parent
-          idToNodeMap[node.id].children.push(childNode);
-        } else {
-          // Handle case where child node doesn't exist (optional)
-          console.error(
-            `Child node with ID ${childId} not found for parent node with ID ${node.id}`
-          );
-        }
-      });
-    } else {
-      // If node has no children, it's a leaf node
-      idToNodeMap[node.id].children = []; // Ensure leaf nodes have an empty children array
+  nodes.forEach((node) => {
+    if (!idMap[node.id]) return false;
+    if (node.children && node.children.length) {
+      node.children = recurseChildren(node);
     }
-
-    // If a node has no parent (i.e., it's a root node), add it to the roots array
-    if (!idToNodeMap[node.id].parentId) {
-      roots.push(idToNodeMap[node.id]);
-    }
+    treeArray.push(node);
   });
-
-  return roots;
+  return treeArray;
 }
 
 function traverseTreeMultipleRoots(roots, path = [], paths = []) {
@@ -64,8 +59,8 @@ function traverseTreeMultipleRoots(roots, path = [], paths = []) {
     // Add the current root node's name to the path
     path.push(root.name);
 
-    if (root.name == 'Arrival Chamber') {
-      console.log('ARRIVAL FACILITY!')
+    if (root.name == "Arrival Chamber") {
+      console.log("ARRIVAL FACILITY!");
       console.log(root);
       console.log(path);
     }
@@ -156,9 +151,11 @@ function traverseTreeMultipleRoots(roots, path = [], paths = []) {
 //   //  label += ' ' + node.name
 // }
 
-const tree = buildTreeFromArray(zones);
+const tree = buildTree(zones);
 
-const paths = traverseTreeMultipleRoots(tree);
+console.log(tree);
+
+traverseTreeMultipleRoots(tree);
 
 writeFileSync("./export/all-dungeons.json", JSON.stringify(tree));
 writeFileSync(
