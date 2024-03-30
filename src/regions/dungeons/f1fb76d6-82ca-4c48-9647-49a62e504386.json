@@ -1,8 +1,6 @@
 {
   "id": "f1fb76d6-82ca-4c48-9647-49a62e504386",
-  "name": "Patriarch Zixki's Chamber (100+)",
-  "landblock": "5F51",
-  "landblockDec": "1599143936",
+  "name": "Patriarch Zixki's Chamber",
   "cells": [
     "0x5F510100",
     "0x5F510101",

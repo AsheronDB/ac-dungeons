@@ -1,8 +1,7 @@
 {
   "id": "a48c9552-ffda-4ed2-9512-e73f9d9d1013",
-  "name": "Hizk Ri's Sewer (60-80)",
-  "landblock": "5F4C",
-  "landblockDec": "1598816256",
+  "name": "Hizk Ri's Sewer Low",
+  "label": "Sewer Low",
   "cells": [
     "0x5F4C0100",
     "0x5F4C0101",

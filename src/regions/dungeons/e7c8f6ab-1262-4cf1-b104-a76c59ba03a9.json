@@ -1,8 +1,7 @@
 {
   "id": "e7c8f6ab-1262-4cf1-b104-a76c59ba03a9",
-  "name": "Hizk Ri's Sewer (100+)",
-  "landblock": "5F4E",
-  "landblockDec": "1598947328",
+  "name": "Hizk Ri's Sewer High",
+  "label": "Sewer High",
   "cells": [
     "0x5F4E0100",
     "0x5F4E0101",

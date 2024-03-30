@@ -1,8 +1,6 @@
 {
   "id": "08fe1f12-cdd9-4282-91d3-ce8669ffe236",
   "name": "Consort Hezhit's Chamber",
-  "landblock": "5F50",
-  "landblockDec": "1599078400",
   "cells": [
     "0x5F500100",
     "0x5F500101",

@@ -1,8 +1,7 @@
 {
-  "id": "a5de0260-4332-41bb-b58f-5609791a19ef",
+  "id": "688ab19d-db35-4b3f-988e-410ffac1228d",
   "name": "Hizk Ri's Temple Entrance",
-  "landblock": "5C4C",
-  "landblockDec": "1548484608",
+  "label": "Entrance",
   "cells": [
     "0x5C4C0100",
     "0x5C4C0101",
@@ -689,24 +688,6 @@
     "0x5C4C03B3",
     "0x5C4C03B4",
     "0x5C4C03B5",
-    "0x5C4C03B6",
-    "0x5C4C03A4",
-    "0x5C4C03A5",
-    "0x5C4C03A6",
-    "0x5C4C03A7",
-    "0x5C4C03A8",
-    "0x5C4C03A9",
-    "0x5C4C03AA",
-    "0x5C4C03AB",
-    "0x5C4C03AC",
-    "0x5C4C03B7",
-    "0x5C4C03B8",
-    "0x5C4C03B9",
-    "0x5C4C03BA",
-    "0x5C4C03BB",
-    "0x5C4C03BC",
-    "0x5C4C03BD",
-    "0x5C4C03BE",
-    "0x5C4C03BF"
+    "0x5C4C03B6"
   ]
 }

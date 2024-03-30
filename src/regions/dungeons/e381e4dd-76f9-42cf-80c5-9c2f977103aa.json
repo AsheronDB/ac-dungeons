@@ -1,8 +1,7 @@
 {
   "id": "e381e4dd-76f9-42cf-80c5-9c2f977103aa",
-  "name": "Hizk Ri's Test (60-80)",
-  "landblock": "5F49",
-  "landblockDec": "1598619648",
+  "name": "Hizk Ri's Test Low",
+  "label": "Test Low",
   "cells": [
     "0x5F490100",
     "0x5F490101",
