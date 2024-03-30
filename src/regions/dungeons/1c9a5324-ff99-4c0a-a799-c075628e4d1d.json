@@ -1,8 +1,8 @@
 {
   "id": "1c9a5324-ff99-4c0a-a799-c075628e4d1d",
   "name": "Empyrean Lightning Propylaeum",
+  "label": "Propylaeum",
   "landblock": "5274",
-  "landblockDec": "1383333888",
   "cells": [
     "0x52740100",
     "0x52740101",
