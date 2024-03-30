@@ -1,8 +1,8 @@
 {
   "id": "2c049a13-5c4d-473f-8f90-cb6f0c72a312",
   "name": "Empyrean Fire Propylaeum",
+  "label": "Propylaeum",
   "landblock": "5270",
-  "landblockDec": "1383071744",
   "cells": [
     "0x52700100",
     "0x52700101",
