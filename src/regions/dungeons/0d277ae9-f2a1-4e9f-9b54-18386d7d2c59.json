@@ -1,0 +1,10 @@
+{
+  "id": "0d277ae9-f2a1-4e9f-9b54-18386d7d2c59",
+  "name": "Empyrean Acid Cistern",
+  "type": "dungeon",
+  "children": [
+    "6b018758-8347-4a27-8cb3-b4113a9e4d4c",
+    "611c08b5-90b0-433b-ad29-34a6c7bb3080",
+    "4d14c57d-af44-4c98-961c-aa10342596b3"
+  ]
+}
