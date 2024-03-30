@@ -1,4 +1,8 @@
-# AC Dungeons Data
+# AC Locations Data
+
+## Coverage Status
+
+TK
 
 ## Included Data
 
