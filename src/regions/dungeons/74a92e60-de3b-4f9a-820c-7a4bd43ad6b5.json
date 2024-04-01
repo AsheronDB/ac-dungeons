@@ -1,8 +1,7 @@
 {
   "id": "74a92e60-de3b-4f9a-820c-7a4bd43ad6b5",
   "name": "Greater Haven of Kivik Lir",
-  "landblock": "0275",
-  "landblockDec": "41222144",
+  "label": "Greater Haven",
   "cells": [
     "0x02750100",
     "0x02750101",

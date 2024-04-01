@@ -1,8 +1,7 @@
 {
   "id": "4c08b96f-d593-4afe-ac8d-54f9f38c9861",
   "name": "Haven of Kivik Lir",
-  "landblock": "0274",
-  "landblockDec": "41156608",
+  "label": "Haven",
   "cells": [
     "0x02740100",
     "0x02740101",

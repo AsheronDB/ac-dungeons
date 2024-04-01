@@ -1,8 +1,7 @@
 {
   "id": "523800ea-0e3d-4cdf-a535-93d80316159d",
   "name": "Lesser Haven of Kivik Lir",
-  "landblock": "0273",
-  "landblockDec": "41091072",
+  "label": "Lesser Haven",
   "cells": [
     "0x02730100",
     "0x02730101",
