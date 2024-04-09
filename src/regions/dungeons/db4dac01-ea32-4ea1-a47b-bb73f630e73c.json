@@ -1,8 +1,18 @@
 {
   "id": "db4dac01-ea32-4ea1-a47b-bb73f630e73c",
   "name": "Sanctum Residential Halls",
-  "landblock": "5465",
-  "landblockDec": "1415905280",
+  "children": [
+    "4040e608-deb9-4f5f-9df9-c052f023ce90",
+    "07bdd348-ed78-42ee-b840-63c7d7e1e18f",
+    "bf9c4228-6777-4f06-8a88-8b85075c2b6f",
+    "adb2f113-a7a0-4b4e-8976-bee8d6a069bf",
+    "a2583f95-f50b-4a55-ba0d-be085a56e772",
+    "3f51c5f8-72c9-4253-bbe3-8bc5c5e7b913",
+    "2bb31f87-00c1-4ca0-a222-6ca60d8e7040",
+    "483251f7-e4fb-439d-ace7-1df3bb17c1db",
+    "22fae51a-e0f1-4699-83b4-8d1708c5a63b",
+    "9ec0a044-1c3c-48f4-abc9-abcc644ecce0"
+  ],
   "cells": [
     "0x54650100",
     "0x54650101",

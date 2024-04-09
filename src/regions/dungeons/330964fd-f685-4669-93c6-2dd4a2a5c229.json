@@ -1,8 +1,6 @@
 {
   "id": "330964fd-f685-4669-93c6-2dd4a2a5c229",
-  "name": "Oriel Residential Halls",
-  "landblock": "7F00",
-  "landblockDec": "2130706432",
+  "name": "Vindalan Dwellings",
   "cells": [
     "0x7F000100",
     "0x7F000101",

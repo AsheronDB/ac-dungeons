@@ -1,8 +1,6 @@
 {
   "id": "ed66a84b-00a8-4b2d-a1f1-ec6e5319657f",
-  "name": "Oriel Residential Halls",
-  "landblock": "8500",
-  "landblockDec": "2231369728",
+  "name": "Endara Gate",
   "cells": [
     "0x85000100",
     "0x85000101",

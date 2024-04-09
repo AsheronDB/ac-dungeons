@@ -1,8 +1,7 @@
 {
   "id": "9ac673e8-d276-4c7b-9bbf-6fdff8c4446c",
-  "name": "Training Academy",
-  "landblock": "8D03",
-  "landblockDec": "2365784064",
+  "name": "Yaraq Training Academy",
+  "duplicate_id": 3,
   "cells": [
     "0x8D030100",
     "0x8D030101",

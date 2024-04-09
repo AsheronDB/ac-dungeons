@@ -1,8 +1,6 @@
 {
   "id": "bae0badf-3557-4fbf-8b39-8851aa8a4b8e",
-  "name": "Oriel Residential Halls",
-  "landblock": "8200",
-  "landblockDec": "2181038080",
+  "name": "White Lotus Gate",
   "cells": [
     "0x82000100",
     "0x82000101",

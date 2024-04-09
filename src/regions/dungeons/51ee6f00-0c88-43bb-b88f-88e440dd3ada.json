@@ -1,8 +1,7 @@
 {
   "id": "51ee6f00-0c88-43bb-b88f-88e440dd3ada",
-  "name": "Training Academy",
-  "landblock": "7F03",
-  "landblockDec": "2130903040",
+  "name": "Shoushi Training Academy",
+  "duplicate_id": 1,
   "cells": [
     "0x7F030100",
     "0x7F030101",

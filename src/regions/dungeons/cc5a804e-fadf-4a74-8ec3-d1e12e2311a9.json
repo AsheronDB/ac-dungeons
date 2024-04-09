@@ -1,8 +1,6 @@
 {
   "id": "cc5a804e-fadf-4a74-8ec3-d1e12e2311a9",
-  "name": "Oriel Residential Halls",
-  "landblock": "7C00",
-  "landblockDec": "2080374784",
+  "name": "Sorac Gate",
   "cells": [
     "0x7C000100",
     "0x7C000101",

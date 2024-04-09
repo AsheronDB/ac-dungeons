@@ -1,8 +1,7 @@
 {
   "id": "980ce75e-f786-4dc7-9a6b-841831d30084",
-  "name": "Training Academy",
-  "landblock": "7203",
-  "landblockDec": "1912799232",
+  "name": "Sanamar Training Academy",
+  "duplicate_id": 2,
   "cells": [
     "0x72030100",
     "0x72030101",

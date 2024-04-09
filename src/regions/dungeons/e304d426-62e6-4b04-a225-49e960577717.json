@@ -3,23 +3,23 @@
   "name": "Gaerlan's Citadel",
   "type": "zone",
   "children": [
-    "a2c82842-a62e-4d09-af23-1460734ae144",
     "fb634f6e-8206-4658-b132-9b6d73e5246b",
     "dedd81a7-210c-4c75-b4e1-7cc234337909",
     "1de952c9-378c-429f-8611-5a43986d08c1",
     "0694deb2-a80f-4799-80af-f3c9f5f1d50b",
-    "3953acd6-be6d-4d16-ad2f-ed78a93038b0",
     "8242efdc-5f8b-48f1-8776-da158501b464",
     "4e99248d-36fc-4b16-9c80-2d6adb61250a",
-    "9ff2102b-4ab3-4541-920b-a9339b0270bb",
     "3d26d557-5f9d-4423-9bab-2450838f3bdf",
     "90866f89-92d9-4360-9f00-996cf3e872c1",
-    "5c56ea49-ee59-4e09-b7a6-ed04b131b891",
     "d625a074-f5e7-448c-9d19-8ea9837d4546",
     "c467fc19-4a48-4843-8fc4-6e051eb7b854",
-    "fbf1af69-e045-4fdd-aae5-a511393eaa18",
     "3e259e97-1f0e-4892-805a-7387ade34453",
     "0a0b338c-aefe-42ca-b2ed-eefc2a0033ef",
-    "6814ad7d-5dd6-4d76-8d53-abe4efda41e4"
+    "6814ad7d-5dd6-4d76-8d53-abe4efda41e4",
+    "9b561e70-83b7-4438-9a69-3fe6143cb112",
+    "57dbf58f-f5e3-4b2f-aac1-73ad6580b3f1",
+    "a47444ed-4a52-42af-b3de-c10e4a0e484a",
+    "aa9738c9-ad11-425d-bc26-f13592716e01",
+    "bc3f458c-d9d9-467f-9460-5be1611e3916"
   ]
 }

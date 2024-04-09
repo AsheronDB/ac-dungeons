@@ -1,8 +1,18 @@
 {
   "id": "21e2a422-3e7c-4750-8e85-af6cdc4188fc",
   "name": "Oriel Residential Halls",
-  "landblock": "565E",
-  "landblockDec": "1449000960",
+  "children": [
+    "ae300e77-1044-4d80-96fe-770235b3b97a",
+    "42b0ee2b-b01a-4a15-b4e5-936a33cd4093",
+    "ed66a84b-00a8-4b2d-a1f1-ec6e5319657f",
+    "1b4f504b-fbcd-4bca-be6d-988ba838b5e9",
+    "53e3fc28-e653-491d-bac7-36af525ba6f7",
+    "cc5a804e-fadf-4a74-8ec3-d1e12e2311a9",
+    "c2b60cd2-0e89-4d7c-8128-19523c0214ab",
+    "a1979fe8-a8c2-4d56-bad7-a70a4f1d4cf8",
+    "330964fd-f685-4669-93c6-2dd4a2a5c229",
+    "bae0badf-3557-4fbf-8b39-8851aa8a4b8e"
+  ],
   "cells": [
     "0x565E0100",
     "0x565E0101",

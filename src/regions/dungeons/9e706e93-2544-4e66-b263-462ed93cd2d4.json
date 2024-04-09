@@ -1,8 +1,6 @@
 {
   "id": "9e706e93-2544-4e66-b263-462ed93cd2d4",
-  "name": "Atrium Residential Halls",
-  "landblock": "7900",
-  "landblockDec": "2030043136",
+  "name": "Ivory Gate",
   "cells": [
     "0x79000100",
     "0x79000101",

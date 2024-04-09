@@ -1,8 +1,6 @@
 {
   "id": "b1de948e-651d-4d26-ac9e-73514ace95a6",
-  "name": "Atrium Residential Halls",
-  "landblock": "7200",
-  "landblockDec": "1912602624",
+  "name": "Winthur Gate",
   "cells": [
     "0x72000100",
     "0x72000101",

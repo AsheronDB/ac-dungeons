@@ -1,8 +1,6 @@
 {
   "id": "4caac0b9-c0b4-4164-99c5-e3ef2baaa920",
-  "name": "Atrium Residential Halls",
-  "landblock": "7600",
-  "landblockDec": "1979711488",
+  "name": "Gajin Dwellings",
   "cells": [
     "0x76000100",
     "0x76000101",

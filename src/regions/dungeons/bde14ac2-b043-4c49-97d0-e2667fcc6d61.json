@@ -1,8 +1,7 @@
 {
   "id": "bde14ac2-b043-4c49-97d0-e2667fcc6d61",
-  "name": "Training Academy",
-  "landblock": "8604",
-  "landblockDec": "2248409088",
+  "name": "Holtburg Training Academy",
+  "duplicate_id": 3,
   "cells": [
     "0x86040100",
     "0x86040101",

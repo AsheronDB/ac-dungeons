@@ -1,8 +1,18 @@
 {
   "id": "489b1fe0-5cc4-4c3f-b904-6c927a45fe67",
   "name": "Victory Residential Halls",
-  "landblock": "5650",
-  "landblockDec": "1448083456",
+  "children": [
+    "74ddda6f-d008-41f9-8ad0-9c2bd85b4e37",
+    "b25d04f6-f6bf-42df-bf2a-75ca896341d9",
+    "2370f625-b365-4861-9d5c-8b51083c1893",
+    "f171fa3b-139c-4632-9ac4-ef959ad5554c",
+    "71ed5ebc-f217-4210-950e-5600d53fa7d0",
+    "9475aa4e-357d-43ee-bce7-b63af17955ee",
+    "f6921ab2-1c57-41ad-b207-d95e8cb13609",
+    "5335af9b-96b7-433f-871c-46547a6eb93f",
+    "b1c81453-0377-41ab-bb4f-02923ea7f692",
+    "767a2b38-f4f3-44fe-a712-0b9f5a1537d8"
+  ],
   "cells": [
     "0x56500100",
     "0x56500101",

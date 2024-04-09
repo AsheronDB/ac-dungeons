@@ -1,8 +1,6 @@
 {
   "id": "1b266a1f-8ab8-45b5-af84-780d813fb5c4",
-  "name": "Atrium Residential Halls",
-  "landblock": "7500",
-  "landblockDec": "1962934272",
+  "name": "Vesper Gate",
   "cells": [
     "0x75000100",
     "0x75000101",

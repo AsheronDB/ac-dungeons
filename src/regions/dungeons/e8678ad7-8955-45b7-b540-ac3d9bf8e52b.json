@@ -1,8 +1,18 @@
 {
   "id": "e8678ad7-8955-45b7-b540-ac3d9bf8e52b",
   "name": "Atrium Residential Halls",
-  "landblock": "5661",
-  "landblockDec": "1449197568",
+  "children": [
+    "6792962d-89ed-4674-8be4-696ab29fd57b",
+    "4caac0b9-c0b4-4164-99c5-e3ef2baaa920",
+    "6ac0835f-733f-4147-b360-f6018898b197",
+    "972e1e90-f160-4b86-914a-2953662a282f",
+    "9e706e93-2544-4e66-b263-462ed93cd2d4",
+    "2d8e0b75-ea86-4d48-ba3e-192b1ef8c639",
+    "9424e99f-faa8-440a-9a9a-c3209dba7f0a",
+    "8e07b27c-36b4-448f-bbce-60d7a96074ed",
+    "1b266a1f-8ab8-45b5-af84-780d813fb5c4",
+    "b1de948e-651d-4d26-ac9e-73514ace95a6"
+  ],
   "cells": [
     "0x56610100",
     "0x56610101",

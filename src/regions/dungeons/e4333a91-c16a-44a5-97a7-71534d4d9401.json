@@ -1,8 +1,18 @@
 {
   "id": "e4333a91-c16a-44a5-97a7-71534d4d9401",
   "name": "Haven Residential Halls",
-  "landblock": "5656",
-  "landblockDec": "1448476672",
+  "children": [
+    "f6faedcd-120b-4c42-92cc-bc0586a023fb",
+    "47c0f99f-a14e-4730-8041-824bf3dc9423",
+    "2d05f7a4-0a18-4b7f-bac5-53e76c8908e4",
+    "f257bd42-c8b7-43e6-8405-bc5e1d48fc55",
+    "332c1c71-cf4d-4ffa-a57f-982e051728c9",
+    "a822b800-3811-4278-a70c-d412efad4479",
+    "8612ddf2-ee75-49b7-a11c-9df4028b9e36",
+    "8107c22d-0912-47d7-8c16-b4605e84785a",
+    "738c3257-0f07-48a1-8b1d-e7c378100317",
+    "a961ff28-2ecb-47fb-81d4-ebbe266b0327"
+  ],
   "cells": [
     "0x56560100",
     "0x56560101",
