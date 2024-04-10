@@ -2,7 +2,7 @@
   "id": "dd4c3711-62bf-4ce3-8e93-039d0136ff73",
   "name": "Al-Jalima",
   "type": "feature",
-  "coordinates": "7.4N, 4.7E",
   "category": "town",
-  "subCategory": "gharundim"
+  "subCategory": "gharundim",
+  "coordinates": "7.4N, 4.7E"
 }
