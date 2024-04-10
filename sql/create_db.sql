@@ -28,3 +28,11 @@ CREATE TABLE positions (
     angles_z REAL NOT NULL,
     FOREIGN KEY (location_id) REFERENCES locations(id)
 );
+
+CREATE TABLE links (
+    id INTEGER PRIMARY KEY,
+    parent_id,
+    child_id,
+    FOREIGN KEY (parent_id) REFERENCES locations(id),
+    FOREIGN KEY (child_id) REFERENCES locations(id)
+);

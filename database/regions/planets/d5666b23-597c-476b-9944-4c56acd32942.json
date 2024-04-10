@@ -1,6 +1,23 @@
 {
-    "id": "d5666b23-597c-476b-9944-4c56acd32942",
-    "name": "Auberean",
-    "type": "planet",
-    "children": ["3ad1a1e7-c569-49f7-b5b5-79fcbcceb94a", "5aa4fd4f-e208-4bc3-93c1-8a4e54b97b46", "766bebc9-2474-46ed-99ff-e3f13b611020", "1dd2aca6-e3bc-44f0-82e7-b76f598a853d"]
-  }
+  "id": "d5666b23-597c-476b-9944-4c56acd32942",
+  "name": "Auberean",
+  "type": "planet",
+  "children": [
+    "3ad1a1e7-c569-49f7-b5b5-79fcbcceb94a",
+    "5aa4fd4f-e208-4bc3-93c1-8a4e54b97b46",
+    "766bebc9-2474-46ed-99ff-e3f13b611020",
+    "1dd2aca6-e3bc-44f0-82e7-b76f598a853d",
+    "601b6f85-576b-452a-841f-e4a9bd35e5d6",
+    "9e3fa4a6-a2df-4b37-944b-bf5c2dc7a9a7",
+    "3da92602-9212-4425-898f-b867ed825990",
+    "73fa7be0-000f-41cd-a59c-1d7ea4f58269",
+    "daa14b3f-d9b2-4851-b09e-de7b5a0c876c",
+    "bd836734-359b-4f39-8441-a12dd4ddcd7e",
+    "da0b4720-a030-4b93-b95c-b0db7a3b100e",
+    "5d48c83e-e4f8-4db0-9788-99336e1fed56",
+    "c7af12a8-bacc-4ae4-9338-f6042215d435",
+    "bd546396-43cd-497f-8896-84eb31df31a2",
+    "5cfcb116-9aa7-496e-9bcf-afe3ef9d6a69",
+    "0a3ae8bd-839a-42ae-949a-3e501037b88c"
+  ]
+}

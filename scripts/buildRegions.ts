@@ -11,6 +11,12 @@ const dbPath = join(__dirname, '..', 'dist', 'ac_locations.db');
 
 // ../database/regions
 
+// function printProgress(current, total) {
+//     process.stdout.clearLine(0);
+//     process.stdout.cursorTo(0);
+//     process.stdout.write('Processed: ' + current + ' of ' + total);
+// }
+
 export default async () => {
 
     // Generate region data structures
@@ -32,15 +38,17 @@ export default async () => {
             const [cellId, locationsArray] = cellEntries[j];
             const objCellId = parseInt(`${landblockId}${cellId}`, 16);
 
+            let lastInsertedId;
+
             for (let k = 0; k < locationsArray.length; k++) {
 
                 const location = locationsArray[k];
+
+
                 const locationObj = regions.find(zone => zone.id === location.id);
 
 
                 if (!locationObj) return false;
-
-
 
                 const findLocationQuery = `SELECT id, uuid FROM locations WHERE uuid = ?`;
                 const insertLocationQuery = `INSERT INTO locations (name, uuid, type, category, label) VALUES(?, ?, ?, ?, ?) RETURNING id`;
@@ -62,6 +70,26 @@ export default async () => {
                 }
                 console.log("Adding cell: ", objCellId)
                 await db.run(insertCellQuery, [objCellId, insertedId, location.rank]);
+
+
+
+
+
+
+
+                // Populate link connections
+
+                if (lastInsertedId) {
+                    const findCurrentLinkQuery = `SELECT id FROM links WHERE parent_id = ? AND child_id = ?`;
+                    const currentLink = await db.get(findCurrentLinkQuery, [lastInsertedId, insertedId]);
+
+                    if (!currentLink) {
+                        const insertLinkQuery = `INSERT INTO links (parent_id, child_id) VALUES(?, ?)`;
+                        await db.run(insertLinkQuery, [lastInsertedId, insertedId]);
+                    }
+                }
+
+                lastInsertedId = insertedId;
 
             }
         }
