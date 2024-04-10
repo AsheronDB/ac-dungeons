@@ -1,4 +1,8 @@
 {
   "id": "5aa4fd4f-e208-4bc3-93c1-8a4e54b97b46",
-  "name": "Dericost"
+  "name": "Dericost",
+  "type": "region",
+  "children": [
+    "d91694b0-4d05-4589-beb7-23712a633b19"
+  ]
 }

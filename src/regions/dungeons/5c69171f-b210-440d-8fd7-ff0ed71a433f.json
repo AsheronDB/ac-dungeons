@@ -1,8 +1,6 @@
 {
   "id": "5c69171f-b210-440d-8fd7-ff0ed71a433f",
   "name": "Gates of Knorr",
-  "landblock": "6344",
-  "landblockDec": "1665400832",
   "cells": [
     "0x63440100",
     "0x63440101",

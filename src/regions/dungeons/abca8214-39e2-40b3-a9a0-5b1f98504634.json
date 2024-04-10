@@ -1,8 +1,7 @@
 {
   "id": "abca8214-39e2-40b3-a9a0-5b1f98504634",
-  "name": "Forge",
-  "landblock": "6445",
-  "landblockDec": "1682243584",
+  "name": "Knorr Lyceum Forge",
+  "label": "Forge",
   "cells": [
     "0x64450100",
     "0x64450101",

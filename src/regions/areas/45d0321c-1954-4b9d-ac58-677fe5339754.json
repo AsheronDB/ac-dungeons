@@ -1,4 +1,6 @@
 {
   "id": "45d0321c-1954-4b9d-ac58-677fe5339754",
-  "name": "Knorr"
+  "name": "Knorr",
+  "type": "region",
+  "children": ["c6a6da5c-9bac-4dff-8002-0a5c4bdc79ec"]
 }

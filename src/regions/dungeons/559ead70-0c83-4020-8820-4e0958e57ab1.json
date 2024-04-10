@@ -1,8 +1,7 @@
 {
   "id": "559ead70-0c83-4020-8820-4e0958e57ab1",
-  "name": "Research Chamber",
-  "landblock": "6443",
-  "landblockDec": "1682112512",
+  "name": "Knorr Lyceum Research Chambers",
+  "label": "Research Chambers",
   "cells": [
     "0x64430100",
     "0x64430101",

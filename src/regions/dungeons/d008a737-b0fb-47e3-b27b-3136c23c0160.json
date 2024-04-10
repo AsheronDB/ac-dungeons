@@ -1,8 +1,7 @@
 {
   "id": "d008a737-b0fb-47e3-b27b-3136c23c0160",
-  "name": "Barracks",
-  "landblock": "6343",
-  "landblockDec": "1665335296",
+  "name": "Knorr Lyceum Barracks",
+  "label": "Barracks",
   "cells": [
     "0x63430100",
     "0x63430101",
