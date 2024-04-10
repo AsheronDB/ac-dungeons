@@ -1,0 +1,22 @@
+{
+  "id": "6ac3406e-bf9c-4e2a-b96e-05bc53e2526c",
+  "name": "Temple of Ixir Zi",
+  "level_req": "??",
+  "names": ["Temple of Ixir Zi", "Blackmire Temple"],
+  "type": "dungeon",
+  "children": [
+    "a2c99ba9-0974-4b88-8bc9-1e657cc0fa1a",
+    "ef7f837b-67aa-4176-99c0-dc45b5eed48e",
+    "e2b786c3-53c0-4261-b37f-65dcaf826904",
+    "24cb55f2-51fd-4b85-b638-3671fbb5a58f",
+    "8851e9da-9059-48f0-89f6-3911c5397c1b",
+    "e77c951f-50d2-4cac-bb5d-99ab06250b7f",
+    "b94b209c-ed34-4202-b51d-72d48737c2f6",
+    "9fbee041-6e53-4ff0-99ac-a6d2b4db88ab",
+    "87378a7f-830d-48b4-96f8-8f7a5193dac3",
+    "9a30684b-286d-4427-bfc1-77bdf9e9ac3a"
+  ]
+}
+
+
+

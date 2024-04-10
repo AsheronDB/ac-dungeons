@@ -209,8 +209,8 @@ async function createSqliteDB() {
 createSqliteDB();
 
 
-writeFileSync("./export/all-dungeons.json", JSON.stringify(tree, null, 2));
-writeFileSync(
-  "./export/dungeon-names.json",
-  JSON.stringify(landblocks, null, 2)
-);
+// writeFileSync("./export/all-dungeons.json", JSON.stringify(tree, null, 2));
+// writeFileSync(
+//   "./export/dungeon-names.json",
+//   JSON.stringify(landblocks, null, 2)
+// );
