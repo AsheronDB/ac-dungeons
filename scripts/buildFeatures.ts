@@ -1,20 +1,20 @@
 import sqlite3 from 'sqlite3';
 import { open } from 'sqlite'
 import getLocations from '../utils/getLocations';
+import { readFileSync } from "fs";
+import openDb from '../utils/openDb';
 import { join } from "path";
 import * as url from 'url';
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 import { ACPosition, radarToPos } from '@asherondb/ac-position';
 
-const dbPath = join(__dirname, '..', 'dist', 'ac_locations.db');
-
 export default async () => {
 
-    const db = await open({
-        filename: dbPath,
-        driver: sqlite3.Database
-    })
+    const db = await openDb();
+
+    const createTableQuery = readFileSync(join(__dirname, '..', 'sql', 'createLocationsTable.sql')).toString();
+    await db.exec(createTableQuery);
 
     const features = getLocations(join(__dirname, '..', 'database', 'features'));
 
