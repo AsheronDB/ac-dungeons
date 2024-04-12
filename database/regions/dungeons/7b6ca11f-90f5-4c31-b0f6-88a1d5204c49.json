@@ -1,8 +1,7 @@
 {
   "id": "7b6ca11f-90f5-4c31-b0f6-88a1d5204c49",
-  "name": "Depth's of Izji Qo's Temple",
-  "landblock": "00FB",
-  "landblockDec": "16449536",
+  "name": "Depths of Izji Qo's Temple",
+  "children": [""],
   "cells": [
     "0x00FB0100",
     "0x00FB0101",
