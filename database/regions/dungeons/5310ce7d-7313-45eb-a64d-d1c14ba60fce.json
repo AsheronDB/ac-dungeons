@@ -1,8 +1,6 @@
 {
   "id": "5310ce7d-7313-45eb-a64d-d1c14ba60fce",
   "name": "Ley Line Cavern",
-  "landblock": "0062",
-  "landblockDec": "6422528",
   "cells": [
     "0x00620100",
     "0x00620101",

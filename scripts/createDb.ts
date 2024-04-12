@@ -6,6 +6,7 @@ import * as url from 'url';
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 export default async () => {
+
     const dbPath = join(__dirname, '..', 'dist', 'ac_locations.db');
     if (!existsSync(dbPath)) {
         const db = await open({

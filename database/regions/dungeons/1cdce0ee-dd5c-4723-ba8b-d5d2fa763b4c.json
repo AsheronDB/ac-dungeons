@@ -1,8 +1,7 @@
 {
   "id": "1cdce0ee-dd5c-4723-ba8b-d5d2fa763b4c",
   "name": "Eastern Catacombs",
-  "landblock": "00D3",
-  "landblockDec": "13828096",
+  "children": ["9f855bea-09c1-43b7-a94d-3ed05a996468", "1195cabe-ae8a-46a7-ae71-f193ff3adce0"],
   "cells": [
     "0x00D30100",
     "0x00D30101",

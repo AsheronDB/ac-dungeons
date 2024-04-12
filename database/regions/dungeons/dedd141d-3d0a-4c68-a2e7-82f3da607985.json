@@ -1,8 +1,7 @@
 {
   "id": "dedd141d-3d0a-4c68-a2e7-82f3da607985",
   "name": "Northern Catacombs",
-  "landblock": "00D2",
-  "landblockDec": "13762560",
+  "children": ["67c7fe0b-f429-4dca-af09-ae11638b10d7"],
   "cells": [
     "0x00D20100",
     "0x00D20101",

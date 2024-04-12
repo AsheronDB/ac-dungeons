@@ -1,8 +1,7 @@
 {
   "id": "062bac35-869b-448f-8cda-b72141f1a5eb",
   "name": "Southern Catacombs",
-  "landblock": "00D4",
-  "landblockDec": "13893632",
+  "children": ["6e491e06-9e23-4dcb-af3f-45b892cab695"],
   "cells": [
     "0x00D40100",
     "0x00D40101",

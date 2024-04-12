@@ -1,8 +1,6 @@
 {
   "id": "67adaa19-fe4a-4796-991b-04938517e9ac",
-  "name": "Lower Catacomb (on Bur)",
-  "landblock": "006C",
-  "landblockDec": "7077888",
+  "name": "Lower Catacomb",
   "cells": [
     "0x006C0100",
     "0x006C0101",

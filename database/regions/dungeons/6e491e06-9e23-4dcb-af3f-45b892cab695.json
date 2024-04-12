@@ -1,8 +1,6 @@
 {
   "id": "6e491e06-9e23-4dcb-af3f-45b892cab695",
   "name": "Deep Guruk Caverns",
-  "landblock": "007A",
-  "landblockDec": "7995392",
   "cells": [
     "0x007A0100",
     "0x007A0101",

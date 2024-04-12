@@ -3,6 +3,7 @@
   "name": "Upper Catacombs",
   "landblock": "00CE",
   "landblockDec": "13500416",
+  "children": ["2a40d6a5-9651-425f-8c44-ce63d8e3a40f", "5310ce7d-7313-45eb-a64d-d1c14ba60fce", "f974b535-cf83-4c60-8215-e6152fde9427"],
   "cells": [
     "0x00CE0100",
     "0x00CE0101",
